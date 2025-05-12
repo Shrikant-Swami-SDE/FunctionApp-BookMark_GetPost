@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GetPost_Bookmarks_Bindings": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7155",
+      "launchBrowser": false
+    }
+  }
+}

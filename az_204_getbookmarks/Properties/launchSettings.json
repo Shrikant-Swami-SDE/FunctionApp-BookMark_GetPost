@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_204_getbookmarks": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7116",
+      "launchBrowser": false
+    }
+  }
+}
